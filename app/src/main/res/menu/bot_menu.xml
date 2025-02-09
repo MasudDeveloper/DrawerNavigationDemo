@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/wallet"
+        android:title="Wallet"
+        android:icon="@drawable/wallet_24"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/shop"
+        android:title="Shop"
+        android:icon="@drawable/shop_icon"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/refers"
+        android:title="My Refers"
+        android:icon="@drawable/refference"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/user_icon"
+        android:checkable="true"
+        />
+</menu>
