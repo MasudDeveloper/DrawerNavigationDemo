@@ -47,6 +47,7 @@
             android:background="@color/blue"
             app:itemIconTint="@color/white"
             app:itemTextColor="@color/white"
+            app:itemHorizontalTranslationEnabled="true"
             app:itemActiveIndicatorStyle="@color/black"
             app:menu="@menu/bot_menu"
             />
